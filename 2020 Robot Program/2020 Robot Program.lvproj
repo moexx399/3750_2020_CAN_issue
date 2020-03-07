@@ -135,6 +135,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="SharedVaribleLib.lvlib" Type="Library" URL="../SharedVaribleLib.lvlib"/>
 		<Item Name="Shooter.vi" Type="VI" URL="../Shooter.vi"/>
+		<Item Name="Slave_Open.vi" Type="VI" URL="../Slave_Open.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
